@@ -1,6 +1,6 @@
 # Introduction 
 Hi, Im Zack Parman.
-I am a high school student ready to grauate in 2 weeks. I have taken a cybersecurity class every year of highschool and have earned a certificate in cybersecurity. 
+I am a college student for MyComputerCareer. I have taken a cybersecurity class every year of highschool and have earned a certificate in cybersecurity. 
 
 ## Interests-
 - I am interested in sports like American Football and Basketball.
