@@ -9,6 +9,7 @@ I am a college student for MyComputerCareer. I have taken a cybersecurity class 
 - I am interested in Cybersecurity and Forensics.
 
 ###  Education-
+- Currently enrolled in MyComputerCareer for Cybersecurity.
 - I went to Nova High School.
 - Taken Cybersecurity every year of highschool.
 - Took Forensic Science Senior year.
